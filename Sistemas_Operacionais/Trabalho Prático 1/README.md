@@ -7,6 +7,9 @@ O código usa uma imagem de entrada e permite escolher a quantidade de threads q
 O algoritmo desenvolvido calcula o tempo de processamento, permitindo comparar o desempenho de diferentes quantidades de threads.
 
 ## Instruções para a execução do código:
+
+(incluir os arquivos stb_image.h e stb_image_write.h no mesmo diretório)
+
 ### No Linux:
 
 Compilar: gcc processador_paralelo.c -o processador_paralelo.exe -lm -pthread
