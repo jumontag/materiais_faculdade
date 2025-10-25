@@ -6,13 +6,13 @@ O código usa uma imagem de entrada e permite escolher a quantidade de threads q
 
 O algoritmo desenvolvido calcula o tempo de processamento, permitindo comparar o desempenho de diferentes quantidades de threads.
 
-##Instruções para a execução do código:
-###No Linux:
+## Instruções para a execução do código:
+### No Linux:
 
 Compilar: gcc processador_paralelo.c -o processador_paralelo.exe -lm -pthread
 Executar: ./processador_paralelo.exe imagem_de_entrada.jpg imagem_escala_cinza.jpg número de threads
 
-###No Windows: 
+### No Windows: 
 
 Compilar: gcc processador_paralelo.c -o processador_paralelo.exe -pthread
 Executar: ./processador_paralelo.exe imagem_de_entrada.jpg imagem_escala_cinza.jpg número de threads
