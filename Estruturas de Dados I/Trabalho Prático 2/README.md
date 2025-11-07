@@ -2,7 +2,7 @@
 
 ## Instruções para execução:
 No terminal insira o nome do programa + o arquivo txt contendo o vetor.
-Exemplo: .\bubble_sort.exe vetor_ja_ordenado.txt
+\nExemplo: .\bubble_sort.exe vetor_ja_ordenado.txt
 
 ## Importante
 O arquivo txt deve conter 1000 números separados por vírgula, sem espaços.
